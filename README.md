@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/c32bcb2d-b05d-49f3-bc74-1c43d1d62aec)
+
 # 💫 About Me:
 # 💫 About Me:<br>🌱 I’m currently learning **Next.js, MongoDB, and TypeScript**  <br>💬 Ask me about **React and Frontend Development**  <br>⚡ Fun fact: I love building things that make student life easier!
 
