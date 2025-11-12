@@ -6,8 +6,8 @@
 
 <p align="center">
   👋 Hi there! I'm <b>Saw San Nyunt Win</b><br>
-  🌱 I’m currently learning <b>Next.js, MongoDB, and TypeScript</b><br>
-  💬 Ask me about <b>React, Full Stack Development, and Data Science</b><br>
+  🌱 I’m currently learning <b>AI & Machine Learning</b><br>
+  💬 Ask me about <b>React, Full Stack Development, IOT and Data Science</b><br>
   ⚡ Fun fact: I love building things that make student life easier!
 </p>
 
@@ -84,5 +84,3 @@
 
 ---
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sawsan)
